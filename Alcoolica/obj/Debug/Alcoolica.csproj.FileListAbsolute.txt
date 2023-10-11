@@ -1,0 +1,5 @@
+C:\Users\ccc\source\repos\Exercicios\Alcoolica\obj\Debug\Alcoolica.csproj.AssemblyReference.cache
+C:\Users\ccc\source\repos\Exercicios\Alcoolica\obj\Debug\Alcoolica.Form1.resources
+C:\Users\ccc\source\repos\Exercicios\Alcoolica\obj\Debug\Alcoolica.Properties.Resources.resources
+C:\Users\ccc\source\repos\Exercicios\Alcoolica\obj\Debug\Alcoolica.csproj.GenerateResource.cache
+C:\Users\ccc\source\repos\Exercicios\Alcoolica\obj\Debug\Alcoolica.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\Users\ccc\source\repos\Exercicios\Senha\obj\Debug\Senha.csproj.AssemblyReference.cache
+C:\Users\ccc\source\repos\Exercicios\Senha\obj\Debug\Senha.Senha.resources
+C:\Users\ccc\source\repos\Exercicios\Senha\obj\Debug\Senha.Properties.Resources.resources
+C:\Users\ccc\source\repos\Exercicios\Senha\obj\Debug\Senha.csproj.GenerateResource.cache
+C:\Users\ccc\source\repos\Exercicios\Senha\obj\Debug\Senha.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\Exercicios\Senha\bin\Debug\Senha.exe.config
+C:\Users\ccc\source\repos\Exercicios\Senha\bin\Debug\Senha.exe
+C:\Users\ccc\source\repos\Exercicios\Senha\bin\Debug\Senha.pdb
+C:\Users\ccc\source\repos\Exercicios\Senha\obj\Debug\Senha.exe
+C:\Users\ccc\source\repos\Exercicios\Senha\obj\Debug\Senha.pdb

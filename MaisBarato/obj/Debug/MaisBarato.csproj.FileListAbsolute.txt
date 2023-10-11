@@ -1,0 +1,10 @@
+C:\Users\ccc\source\repos\Exercicios\MaisBarato\bin\Debug\MaisBarato.exe.config
+C:\Users\ccc\source\repos\Exercicios\MaisBarato\bin\Debug\MaisBarato.exe
+C:\Users\ccc\source\repos\Exercicios\MaisBarato\bin\Debug\MaisBarato.pdb
+C:\Users\ccc\source\repos\Exercicios\MaisBarato\obj\Debug\MaisBarato.csproj.AssemblyReference.cache
+C:\Users\ccc\source\repos\Exercicios\MaisBarato\obj\Debug\MaisBarato.Form1.resources
+C:\Users\ccc\source\repos\Exercicios\MaisBarato\obj\Debug\MaisBarato.Properties.Resources.resources
+C:\Users\ccc\source\repos\Exercicios\MaisBarato\obj\Debug\MaisBarato.csproj.GenerateResource.cache
+C:\Users\ccc\source\repos\Exercicios\MaisBarato\obj\Debug\MaisBarato.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\Exercicios\MaisBarato\obj\Debug\MaisBarato.exe
+C:\Users\ccc\source\repos\Exercicios\MaisBarato\obj\Debug\MaisBarato.pdb

@@ -1,0 +1,10 @@
+C:\Users\ccc\source\repos\Exercicios\ParImparZero\bin\Debug\ParImparZero.exe.config
+C:\Users\ccc\source\repos\Exercicios\ParImparZero\bin\Debug\ParImparZero.exe
+C:\Users\ccc\source\repos\Exercicios\ParImparZero\bin\Debug\ParImparZero.pdb
+C:\Users\ccc\source\repos\Exercicios\ParImparZero\obj\Debug\ParImparZero.csproj.AssemblyReference.cache
+C:\Users\ccc\source\repos\Exercicios\ParImparZero\obj\Debug\ParImparZero.Form1.resources
+C:\Users\ccc\source\repos\Exercicios\ParImparZero\obj\Debug\ParImparZero.Properties.Resources.resources
+C:\Users\ccc\source\repos\Exercicios\ParImparZero\obj\Debug\ParImparZero.csproj.GenerateResource.cache
+C:\Users\ccc\source\repos\Exercicios\ParImparZero\obj\Debug\ParImparZero.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\Exercicios\ParImparZero\obj\Debug\ParImparZero.exe
+C:\Users\ccc\source\repos\Exercicios\ParImparZero\obj\Debug\ParImparZero.pdb

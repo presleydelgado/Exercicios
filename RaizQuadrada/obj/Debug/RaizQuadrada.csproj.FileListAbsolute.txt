@@ -1,0 +1,10 @@
+C:\Users\ccc\source\repos\Exercicios\RaizQuadrada\bin\Debug\RaizQuadrada.exe.config
+C:\Users\ccc\source\repos\Exercicios\RaizQuadrada\bin\Debug\RaizQuadrada.exe
+C:\Users\ccc\source\repos\Exercicios\RaizQuadrada\bin\Debug\RaizQuadrada.pdb
+C:\Users\ccc\source\repos\Exercicios\RaizQuadrada\obj\Debug\RaizQuadrada.csproj.AssemblyReference.cache
+C:\Users\ccc\source\repos\Exercicios\RaizQuadrada\obj\Debug\RaizQuadrada.Form1.resources
+C:\Users\ccc\source\repos\Exercicios\RaizQuadrada\obj\Debug\RaizQuadrada.Properties.Resources.resources
+C:\Users\ccc\source\repos\Exercicios\RaizQuadrada\obj\Debug\RaizQuadrada.csproj.GenerateResource.cache
+C:\Users\ccc\source\repos\Exercicios\RaizQuadrada\obj\Debug\RaizQuadrada.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\Exercicios\RaizQuadrada\obj\Debug\RaizQuadrada.exe
+C:\Users\ccc\source\repos\Exercicios\RaizQuadrada\obj\Debug\RaizQuadrada.pdb

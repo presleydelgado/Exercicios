@@ -1,0 +1,10 @@
+C:\Users\ccc\source\repos\Exercicios\Media\bin\Debug\Media.exe.config
+C:\Users\ccc\source\repos\Exercicios\Media\bin\Debug\Media.exe
+C:\Users\ccc\source\repos\Exercicios\Media\bin\Debug\Media.pdb
+C:\Users\ccc\source\repos\Exercicios\Media\obj\Debug\Media.csproj.AssemblyReference.cache
+C:\Users\ccc\source\repos\Exercicios\Media\obj\Debug\Media.Form1.resources
+C:\Users\ccc\source\repos\Exercicios\Media\obj\Debug\Media.Properties.Resources.resources
+C:\Users\ccc\source\repos\Exercicios\Media\obj\Debug\Media.csproj.GenerateResource.cache
+C:\Users\ccc\source\repos\Exercicios\Media\obj\Debug\Media.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\Exercicios\Media\obj\Debug\Media.exe
+C:\Users\ccc\source\repos\Exercicios\Media\obj\Debug\Media.pdb

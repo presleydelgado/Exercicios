@@ -1,0 +1,10 @@
+C:\Users\ccc\source\repos\Exercicios\Jogador\bin\Debug\Jogador.exe.config
+C:\Users\ccc\source\repos\Exercicios\Jogador\bin\Debug\Jogador.exe
+C:\Users\ccc\source\repos\Exercicios\Jogador\bin\Debug\Jogador.pdb
+C:\Users\ccc\source\repos\Exercicios\Jogador\obj\Debug\Jogador.csproj.AssemblyReference.cache
+C:\Users\ccc\source\repos\Exercicios\Jogador\obj\Debug\Jogador.Form1.resources
+C:\Users\ccc\source\repos\Exercicios\Jogador\obj\Debug\Jogador.Properties.Resources.resources
+C:\Users\ccc\source\repos\Exercicios\Jogador\obj\Debug\Jogador.csproj.GenerateResource.cache
+C:\Users\ccc\source\repos\Exercicios\Jogador\obj\Debug\Jogador.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\Exercicios\Jogador\obj\Debug\Jogador.exe
+C:\Users\ccc\source\repos\Exercicios\Jogador\obj\Debug\Jogador.pdb

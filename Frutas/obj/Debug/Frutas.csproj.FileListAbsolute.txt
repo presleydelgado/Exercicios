@@ -1,0 +1,10 @@
+C:\Users\ccc\source\repos\Exercicios\Frutas\bin\Debug\Frutas.exe.config
+C:\Users\ccc\source\repos\Exercicios\Frutas\bin\Debug\Frutas.exe
+C:\Users\ccc\source\repos\Exercicios\Frutas\bin\Debug\Frutas.pdb
+C:\Users\ccc\source\repos\Exercicios\Frutas\obj\Debug\Frutas.csproj.AssemblyReference.cache
+C:\Users\ccc\source\repos\Exercicios\Frutas\obj\Debug\Frutas.Form1.resources
+C:\Users\ccc\source\repos\Exercicios\Frutas\obj\Debug\Frutas.Properties.Resources.resources
+C:\Users\ccc\source\repos\Exercicios\Frutas\obj\Debug\Frutas.csproj.GenerateResource.cache
+C:\Users\ccc\source\repos\Exercicios\Frutas\obj\Debug\Frutas.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\Exercicios\Frutas\obj\Debug\Frutas.exe
+C:\Users\ccc\source\repos\Exercicios\Frutas\obj\Debug\Frutas.pdb

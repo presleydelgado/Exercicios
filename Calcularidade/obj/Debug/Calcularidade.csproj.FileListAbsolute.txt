@@ -1,0 +1,10 @@
+C:\Users\ccc\source\repos\Exercicios\Calcularidade\bin\Debug\Calcularidade.exe.config
+C:\Users\ccc\source\repos\Exercicios\Calcularidade\bin\Debug\Calcularidade.exe
+C:\Users\ccc\source\repos\Exercicios\Calcularidade\bin\Debug\Calcularidade.pdb
+C:\Users\ccc\source\repos\Exercicios\Calcularidade\obj\Debug\Calcularidade.csproj.AssemblyReference.cache
+C:\Users\ccc\source\repos\Exercicios\Calcularidade\obj\Debug\Calcularidade.Form1.resources
+C:\Users\ccc\source\repos\Exercicios\Calcularidade\obj\Debug\Calcularidade.Properties.Resources.resources
+C:\Users\ccc\source\repos\Exercicios\Calcularidade\obj\Debug\Calcularidade.csproj.GenerateResource.cache
+C:\Users\ccc\source\repos\Exercicios\Calcularidade\obj\Debug\Calcularidade.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\Exercicios\Calcularidade\obj\Debug\Calcularidade.exe
+C:\Users\ccc\source\repos\Exercicios\Calcularidade\obj\Debug\Calcularidade.pdb

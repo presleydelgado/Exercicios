@@ -1,0 +1,10 @@
+C:\Users\ccc\source\repos\Exercicios\Alcoolico\bin\Debug\Alcoolico.exe.config
+C:\Users\ccc\source\repos\Exercicios\Alcoolico\bin\Debug\Alcoolico.exe
+C:\Users\ccc\source\repos\Exercicios\Alcoolico\bin\Debug\Alcoolico.pdb
+C:\Users\ccc\source\repos\Exercicios\Alcoolico\obj\Debug\Alcoolico.csproj.AssemblyReference.cache
+C:\Users\ccc\source\repos\Exercicios\Alcoolico\obj\Debug\Alcoolico.Form1.resources
+C:\Users\ccc\source\repos\Exercicios\Alcoolico\obj\Debug\Alcoolico.Properties.Resources.resources
+C:\Users\ccc\source\repos\Exercicios\Alcoolico\obj\Debug\Alcoolico.csproj.GenerateResource.cache
+C:\Users\ccc\source\repos\Exercicios\Alcoolico\obj\Debug\Alcoolico.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\Exercicios\Alcoolico\obj\Debug\Alcoolico.exe
+C:\Users\ccc\source\repos\Exercicios\Alcoolico\obj\Debug\Alcoolico.pdb

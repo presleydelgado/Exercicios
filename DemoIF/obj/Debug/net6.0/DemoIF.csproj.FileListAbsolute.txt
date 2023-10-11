@@ -1,0 +1,14 @@
+C:\Users\ccc\source\repos\Exercicios\DemoIF\bin\Debug\net6.0\DemoIF.exe
+C:\Users\ccc\source\repos\Exercicios\DemoIF\bin\Debug\net6.0\DemoIF.deps.json
+C:\Users\ccc\source\repos\Exercicios\DemoIF\bin\Debug\net6.0\DemoIF.runtimeconfig.json
+C:\Users\ccc\source\repos\Exercicios\DemoIF\bin\Debug\net6.0\DemoIF.dll
+C:\Users\ccc\source\repos\Exercicios\DemoIF\bin\Debug\net6.0\DemoIF.pdb
+C:\Users\ccc\source\repos\Exercicios\DemoIF\obj\Debug\net6.0\DemoIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccc\source\repos\Exercicios\DemoIF\obj\Debug\net6.0\DemoIF.AssemblyInfoInputs.cache
+C:\Users\ccc\source\repos\Exercicios\DemoIF\obj\Debug\net6.0\DemoIF.AssemblyInfo.cs
+C:\Users\ccc\source\repos\Exercicios\DemoIF\obj\Debug\net6.0\DemoIF.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\Exercicios\DemoIF\obj\Debug\net6.0\DemoIF.dll
+C:\Users\ccc\source\repos\Exercicios\DemoIF\obj\Debug\net6.0\refint\DemoIF.dll
+C:\Users\ccc\source\repos\Exercicios\DemoIF\obj\Debug\net6.0\DemoIF.pdb
+C:\Users\ccc\source\repos\Exercicios\DemoIF\obj\Debug\net6.0\DemoIF.genruntimeconfig.cache
+C:\Users\ccc\source\repos\Exercicios\DemoIF\obj\Debug\net6.0\ref\DemoIF.dll

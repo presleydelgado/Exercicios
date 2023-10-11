@@ -1,0 +1,10 @@
+C:\Users\ccc\source\repos\Exercicios\CelsiusParaFahrenheit\bin\Debug\CelsiusParaFahrenheit.exe.config
+C:\Users\ccc\source\repos\Exercicios\CelsiusParaFahrenheit\bin\Debug\CelsiusParaFahrenheit.exe
+C:\Users\ccc\source\repos\Exercicios\CelsiusParaFahrenheit\bin\Debug\CelsiusParaFahrenheit.pdb
+C:\Users\ccc\source\repos\Exercicios\CelsiusParaFahrenheit\obj\Debug\CelsiusParaFahrenheit.csproj.AssemblyReference.cache
+C:\Users\ccc\source\repos\Exercicios\CelsiusParaFahrenheit\obj\Debug\CelsiusParaFahrenheit.Form1.resources
+C:\Users\ccc\source\repos\Exercicios\CelsiusParaFahrenheit\obj\Debug\CelsiusParaFahrenheit.Properties.Resources.resources
+C:\Users\ccc\source\repos\Exercicios\CelsiusParaFahrenheit\obj\Debug\CelsiusParaFahrenheit.csproj.GenerateResource.cache
+C:\Users\ccc\source\repos\Exercicios\CelsiusParaFahrenheit\obj\Debug\CelsiusParaFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\Exercicios\CelsiusParaFahrenheit\obj\Debug\CelsiusParaFahrenheit.exe
+C:\Users\ccc\source\repos\Exercicios\CelsiusParaFahrenheit\obj\Debug\CelsiusParaFahrenheit.pdb

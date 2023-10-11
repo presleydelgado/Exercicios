@@ -1,0 +1,10 @@
+C:\Users\ccc\source\repos\Exercicios\SelecionarGenero\bin\Debug\SelecionarGenero.exe.config
+C:\Users\ccc\source\repos\Exercicios\SelecionarGenero\bin\Debug\SelecionarGenero.exe
+C:\Users\ccc\source\repos\Exercicios\SelecionarGenero\bin\Debug\SelecionarGenero.pdb
+C:\Users\ccc\source\repos\Exercicios\SelecionarGenero\obj\Debug\SelecionarGenero.csproj.AssemblyReference.cache
+C:\Users\ccc\source\repos\Exercicios\SelecionarGenero\obj\Debug\SelecionarGenero.Form1.resources
+C:\Users\ccc\source\repos\Exercicios\SelecionarGenero\obj\Debug\SelecionarGenero.Properties.Resources.resources
+C:\Users\ccc\source\repos\Exercicios\SelecionarGenero\obj\Debug\SelecionarGenero.csproj.GenerateResource.cache
+C:\Users\ccc\source\repos\Exercicios\SelecionarGenero\obj\Debug\SelecionarGenero.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\Exercicios\SelecionarGenero\obj\Debug\SelecionarGenero.exe
+C:\Users\ccc\source\repos\Exercicios\SelecionarGenero\obj\Debug\SelecionarGenero.pdb

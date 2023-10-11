@@ -1,0 +1,10 @@
+C:\Users\ccc\source\repos\Exercicios\MostraProduto\bin\Debug\MostraProduto.exe.config
+C:\Users\ccc\source\repos\Exercicios\MostraProduto\bin\Debug\MostraProduto.exe
+C:\Users\ccc\source\repos\Exercicios\MostraProduto\bin\Debug\MostraProduto.pdb
+C:\Users\ccc\source\repos\Exercicios\MostraProduto\obj\Debug\MostraProduto.csproj.AssemblyReference.cache
+C:\Users\ccc\source\repos\Exercicios\MostraProduto\obj\Debug\MostraProduto.Form1.resources
+C:\Users\ccc\source\repos\Exercicios\MostraProduto\obj\Debug\MostraProduto.Properties.Resources.resources
+C:\Users\ccc\source\repos\Exercicios\MostraProduto\obj\Debug\MostraProduto.csproj.GenerateResource.cache
+C:\Users\ccc\source\repos\Exercicios\MostraProduto\obj\Debug\MostraProduto.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\Exercicios\MostraProduto\obj\Debug\MostraProduto.exe
+C:\Users\ccc\source\repos\Exercicios\MostraProduto\obj\Debug\MostraProduto.pdb

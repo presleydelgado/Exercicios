@@ -1,0 +1,14 @@
+C:\Users\ccc\source\repos\Exercicios\Divisivel\bin\Debug\net6.0\Divisivel.exe
+C:\Users\ccc\source\repos\Exercicios\Divisivel\bin\Debug\net6.0\Divisivel.deps.json
+C:\Users\ccc\source\repos\Exercicios\Divisivel\bin\Debug\net6.0\Divisivel.runtimeconfig.json
+C:\Users\ccc\source\repos\Exercicios\Divisivel\bin\Debug\net6.0\Divisivel.dll
+C:\Users\ccc\source\repos\Exercicios\Divisivel\bin\Debug\net6.0\Divisivel.pdb
+C:\Users\ccc\source\repos\Exercicios\Divisivel\obj\Debug\net6.0\Divisivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccc\source\repos\Exercicios\Divisivel\obj\Debug\net6.0\Divisivel.AssemblyInfoInputs.cache
+C:\Users\ccc\source\repos\Exercicios\Divisivel\obj\Debug\net6.0\Divisivel.AssemblyInfo.cs
+C:\Users\ccc\source\repos\Exercicios\Divisivel\obj\Debug\net6.0\Divisivel.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\Exercicios\Divisivel\obj\Debug\net6.0\Divisivel.dll
+C:\Users\ccc\source\repos\Exercicios\Divisivel\obj\Debug\net6.0\refint\Divisivel.dll
+C:\Users\ccc\source\repos\Exercicios\Divisivel\obj\Debug\net6.0\Divisivel.pdb
+C:\Users\ccc\source\repos\Exercicios\Divisivel\obj\Debug\net6.0\Divisivel.genruntimeconfig.cache
+C:\Users\ccc\source\repos\Exercicios\Divisivel\obj\Debug\net6.0\ref\Divisivel.dll

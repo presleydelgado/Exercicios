@@ -1,0 +1,14 @@
+C:\Users\ccc\source\repos\Exercicios\MariaJose\bin\Debug\net6.0\MariaJose.exe
+C:\Users\ccc\source\repos\Exercicios\MariaJose\bin\Debug\net6.0\MariaJose.deps.json
+C:\Users\ccc\source\repos\Exercicios\MariaJose\bin\Debug\net6.0\MariaJose.runtimeconfig.json
+C:\Users\ccc\source\repos\Exercicios\MariaJose\bin\Debug\net6.0\MariaJose.dll
+C:\Users\ccc\source\repos\Exercicios\MariaJose\bin\Debug\net6.0\MariaJose.pdb
+C:\Users\ccc\source\repos\Exercicios\MariaJose\obj\Debug\net6.0\MariaJose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccc\source\repos\Exercicios\MariaJose\obj\Debug\net6.0\MariaJose.AssemblyInfoInputs.cache
+C:\Users\ccc\source\repos\Exercicios\MariaJose\obj\Debug\net6.0\MariaJose.AssemblyInfo.cs
+C:\Users\ccc\source\repos\Exercicios\MariaJose\obj\Debug\net6.0\MariaJose.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\Exercicios\MariaJose\obj\Debug\net6.0\MariaJose.dll
+C:\Users\ccc\source\repos\Exercicios\MariaJose\obj\Debug\net6.0\refint\MariaJose.dll
+C:\Users\ccc\source\repos\Exercicios\MariaJose\obj\Debug\net6.0\MariaJose.pdb
+C:\Users\ccc\source\repos\Exercicios\MariaJose\obj\Debug\net6.0\MariaJose.genruntimeconfig.cache
+C:\Users\ccc\source\repos\Exercicios\MariaJose\obj\Debug\net6.0\ref\MariaJose.dll
