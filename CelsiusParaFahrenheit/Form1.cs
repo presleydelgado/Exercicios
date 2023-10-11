@@ -19,8 +19,8 @@ namespace CelsiusParaFahrenheit
 
         private void button1_Click(object sender, EventArgs e)
         {
-            float valorf = float.Parse(textBox1faherenheit.Text);
-            float subf = (valorf - 32);
+            double valorf = (0);
+            double subf = (valorf - 32);
             double divisaof = (subf / 1.8);
 
                         
@@ -44,19 +44,19 @@ namespace CelsiusParaFahrenheit
         private void button2_Click(object sender, EventArgs e)
         {
             double valorcampo = (0);
-            double valordigitado = (valorcampo);
-            double subc = (valordigitado * 1.8);
+           
+            double subc = (valorcampo * 1.8);
             double somac = (subc + 32);
             double resultado = (somac);
 
             try
             {
-                valordigitado = float.Parse(textBox1celsius.Text);
-                subc = (valordigitado * 1.8);
+                valorcampo = float.Parse(textBox1celsius.Text);
+                subc = (valorcampo * 1.8);
                 somac = (subc + 32);
                 resultado = (somac);
 
-                MessageBox.Show("O valor de " + valordigitado+ " ° C para F é de : " + resultado + "°F");
+                MessageBox.Show("O valor de " + valorcampo + " ° C para F é de : " + resultado + "°F");
             }
             catch
             {
