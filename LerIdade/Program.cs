@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Digite o nome de uma pessoa :");
+﻿try { 
+Console.WriteLine("Digite o nome de uma pessoa :");
 
 string nome1 = Console.ReadLine();
 
@@ -57,7 +58,12 @@ else
 {
     Console.WriteLine(nome3 + " é de menor");
 }
+}
 
+catch
+{
+    Console.WriteLine("Valor invalido");
+}
 
 
 
