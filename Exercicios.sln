@@ -35,9 +35,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media", "Media\Media.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelsiusParaFahrenheit", "CelsiusParaFahrenheit\CelsiusParaFahrenheit.csproj", "{D64C6AE6-946D-4F43-A432-CD58A0DBEE40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LerIdade", "LerIdade\LerIdade.csproj", "{151C4B0A-24CE-49BD-9C25-76114BCD788C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LerIdade", "LerIdade\LerIdade.csproj", "{151C4B0A-24CE-49BD-9C25-76114BCD788C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LerIdadeMaior", "LerIdadeMaior\LerIdadeMaior.csproj", "{099AF7DE-3CB8-40A6-A381-C52D5FD9F18D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LerIdadeMaior", "LerIdadeMaior\LerIdadeMaior.csproj", "{099AF7DE-3CB8-40A6-A381-C52D5FD9F18D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnoNascimento", "AnoNascimento\AnoNascimento.csproj", "{7146C609-BA24-4D53-B781-F22996E4B697}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{099AF7DE-3CB8-40A6-A381-C52D5FD9F18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{099AF7DE-3CB8-40A6-A381-C52D5FD9F18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{099AF7DE-3CB8-40A6-A381-C52D5FD9F18D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7146C609-BA24-4D53-B781-F22996E4B697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7146C609-BA24-4D53-B781-F22996E4B697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7146C609-BA24-4D53-B781-F22996E4B697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7146C609-BA24-4D53-B781-F22996E4B697}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
