@@ -54,11 +54,11 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(257, 123);
+            this.button1.Location = new System.Drawing.Point(229, 123);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(117, 38);
+            this.button1.Size = new System.Drawing.Size(158, 38);
             this.button1.TabIndex = 2;
-            this.button1.Text = "button1";
+            this.button1.Text = "Calcular F para C";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -71,12 +71,13 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(500, 123);
+            this.button2.Location = new System.Drawing.Point(480, 123);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(102, 38);
+            this.button2.Size = new System.Drawing.Size(164, 38);
             this.button2.TabIndex = 4;
-            this.button2.Text = "button2";
+            this.button2.Text = "Calcular C para F";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // label2
             // 

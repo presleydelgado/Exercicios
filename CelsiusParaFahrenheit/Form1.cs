@@ -19,17 +19,45 @@ namespace CelsiusParaFahrenheit
 
         private void button1_Click(object sender, EventArgs e)
         {
-            float F = float.Parse(textBox1faherenheit.Text);
-            float C = float.Parse(textBox1celsius.Text);
+            float valorf = float.Parse(textBox1faherenheit.Text);
+            float subf = (valorf - 32);
+            double divisaof = (subf / 1.8);
+
+                        
             
         try
             {
-                F = float.Parse(textBox1faherenheit.Text);
-                C = float.Parse(textBox1celsius.Text);
+                valorf = float.Parse(textBox1faherenheit.Text);
+                subf = (valorf - 32);
+                divisaof = (subf / 1.8);
 
-                MessageBox.Show("Valor em C" + C * 1.8);    
+                MessageBox.Show("O valor de " + valorf + " graus Fahrenheit para graus Celsius é de: " + divisaof + "° C");
+
+                
             }
         catch
+            {
+                MessageBox.Show("Valor invalido");
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            float valorc = float.Parse(textBox1celsius.Text);
+            double subc = (valorc * 1.8);
+            double somac = (subc + 32);
+            double resultado = (somac);
+
+            try
+            {
+                valorc = float.Parse(textBox1celsius.Text);
+                subc = (valorc * 1.8);
+                somac = (subc + 32);
+                resultado = (somac);
+
+                MessageBox.Show("O valor de " + valorc + " ° C para F é de : " + resultado + "°F");
+            }
+            catch
             {
                 MessageBox.Show("Valor invalido");
             }
