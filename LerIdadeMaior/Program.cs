@@ -37,7 +37,14 @@ Console.WriteLine("Digite a idade dessa pessoa: ");
 idade3 = int.Parse(Console.ReadLine());
 
 
-    Console.WriteLine(nome1 + idade1 + idade2 + idade3);
+    if(idade1 > 18 & idade2 > 18 & idade3 > 18)
+    {
+        Console.WriteLine("Todos são maiores de 18");
+    }
+    else
+    {
+        Console.WriteLine("Nem todos são maiores de 18 anos !!");
+    }
 }
 catch
 {
