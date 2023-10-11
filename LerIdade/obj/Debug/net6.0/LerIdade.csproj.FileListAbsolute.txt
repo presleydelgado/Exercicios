@@ -1,0 +1,14 @@
+C:\Users\ccc\source\repos\Exercicios\LerIdade\bin\Debug\net6.0\LerIdade.exe
+C:\Users\ccc\source\repos\Exercicios\LerIdade\bin\Debug\net6.0\LerIdade.deps.json
+C:\Users\ccc\source\repos\Exercicios\LerIdade\bin\Debug\net6.0\LerIdade.runtimeconfig.json
+C:\Users\ccc\source\repos\Exercicios\LerIdade\bin\Debug\net6.0\LerIdade.dll
+C:\Users\ccc\source\repos\Exercicios\LerIdade\bin\Debug\net6.0\LerIdade.pdb
+C:\Users\ccc\source\repos\Exercicios\LerIdade\obj\Debug\net6.0\LerIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccc\source\repos\Exercicios\LerIdade\obj\Debug\net6.0\LerIdade.AssemblyInfoInputs.cache
+C:\Users\ccc\source\repos\Exercicios\LerIdade\obj\Debug\net6.0\LerIdade.AssemblyInfo.cs
+C:\Users\ccc\source\repos\Exercicios\LerIdade\obj\Debug\net6.0\LerIdade.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\Exercicios\LerIdade\obj\Debug\net6.0\LerIdade.dll
+C:\Users\ccc\source\repos\Exercicios\LerIdade\obj\Debug\net6.0\refint\LerIdade.dll
+C:\Users\ccc\source\repos\Exercicios\LerIdade\obj\Debug\net6.0\LerIdade.pdb
+C:\Users\ccc\source\repos\Exercicios\LerIdade\obj\Debug\net6.0\LerIdade.genruntimeconfig.cache
+C:\Users\ccc\source\repos\Exercicios\LerIdade\obj\Debug\net6.0\ref\LerIdade.dll
