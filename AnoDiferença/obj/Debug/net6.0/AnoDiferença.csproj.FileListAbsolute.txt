@@ -1,0 +1,14 @@
+C:\Users\ccc\source\repos\Exercicios\AnoDiferença\bin\Debug\net6.0\AnoDiferença.exe
+C:\Users\ccc\source\repos\Exercicios\AnoDiferença\bin\Debug\net6.0\AnoDiferença.deps.json
+C:\Users\ccc\source\repos\Exercicios\AnoDiferença\bin\Debug\net6.0\AnoDiferença.runtimeconfig.json
+C:\Users\ccc\source\repos\Exercicios\AnoDiferença\bin\Debug\net6.0\AnoDiferença.dll
+C:\Users\ccc\source\repos\Exercicios\AnoDiferença\bin\Debug\net6.0\AnoDiferença.pdb
+C:\Users\ccc\source\repos\Exercicios\AnoDiferença\obj\Debug\net6.0\AnoDiferença.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccc\source\repos\Exercicios\AnoDiferença\obj\Debug\net6.0\AnoDiferença.AssemblyInfoInputs.cache
+C:\Users\ccc\source\repos\Exercicios\AnoDiferença\obj\Debug\net6.0\AnoDiferença.AssemblyInfo.cs
+C:\Users\ccc\source\repos\Exercicios\AnoDiferença\obj\Debug\net6.0\AnoDiferença.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\Exercicios\AnoDiferença\obj\Debug\net6.0\AnoDiferença.dll
+C:\Users\ccc\source\repos\Exercicios\AnoDiferença\obj\Debug\net6.0\refint\AnoDiferença.dll
+C:\Users\ccc\source\repos\Exercicios\AnoDiferença\obj\Debug\net6.0\AnoDiferença.pdb
+C:\Users\ccc\source\repos\Exercicios\AnoDiferença\obj\Debug\net6.0\AnoDiferença.genruntimeconfig.cache
+C:\Users\ccc\source\repos\Exercicios\AnoDiferença\obj\Debug\net6.0\ref\AnoDiferença.dll

@@ -41,6 +41,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LerIdadeMaior", "LerIdadeMa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnoNascimento", "AnoNascimento\AnoNascimento.csproj", "{7146C609-BA24-4D53-B781-F22996E4B697}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnoDiferença", "AnoDiferença\AnoDiferença.csproj", "{BDFD7869-2508-4FA0-BA34-EAAAA2EAAAA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{7146C609-BA24-4D53-B781-F22996E4B697}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7146C609-BA24-4D53-B781-F22996E4B697}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7146C609-BA24-4D53-B781-F22996E4B697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDFD7869-2508-4FA0-BA34-EAAAA2EAAAA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFD7869-2508-4FA0-BA34-EAAAA2EAAAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFD7869-2508-4FA0-BA34-EAAAA2EAAAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFD7869-2508-4FA0-BA34-EAAAA2EAAAA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
