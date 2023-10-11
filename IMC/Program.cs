@@ -1,6 +1,6 @@
 ﻿var masculino = "true" ;
 var feminino = "false";
-
+double altura = 0;
 
 
 /* calculo  masculino */
@@ -36,5 +36,5 @@ altura = double.Parse(Console.ReadLine());
  }
 catch
 {
-    Console.WriteLine("ESTOY LOCO AAAAAAAAAAAHHHHHHHHHHH");
+    Console.WriteLine("ESTOY LOCO");
 }
