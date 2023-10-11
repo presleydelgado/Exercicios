@@ -1,0 +1,14 @@
+C:\Users\ccc\source\repos\Exercicios\LerIdadeMaior\bin\Debug\net6.0\LerIdadeMaior.exe
+C:\Users\ccc\source\repos\Exercicios\LerIdadeMaior\bin\Debug\net6.0\LerIdadeMaior.deps.json
+C:\Users\ccc\source\repos\Exercicios\LerIdadeMaior\bin\Debug\net6.0\LerIdadeMaior.runtimeconfig.json
+C:\Users\ccc\source\repos\Exercicios\LerIdadeMaior\bin\Debug\net6.0\LerIdadeMaior.dll
+C:\Users\ccc\source\repos\Exercicios\LerIdadeMaior\bin\Debug\net6.0\LerIdadeMaior.pdb
+C:\Users\ccc\source\repos\Exercicios\LerIdadeMaior\obj\Debug\net6.0\LerIdadeMaior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccc\source\repos\Exercicios\LerIdadeMaior\obj\Debug\net6.0\LerIdadeMaior.AssemblyInfoInputs.cache
+C:\Users\ccc\source\repos\Exercicios\LerIdadeMaior\obj\Debug\net6.0\LerIdadeMaior.AssemblyInfo.cs
+C:\Users\ccc\source\repos\Exercicios\LerIdadeMaior\obj\Debug\net6.0\LerIdadeMaior.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\Exercicios\LerIdadeMaior\obj\Debug\net6.0\LerIdadeMaior.dll
+C:\Users\ccc\source\repos\Exercicios\LerIdadeMaior\obj\Debug\net6.0\refint\LerIdadeMaior.dll
+C:\Users\ccc\source\repos\Exercicios\LerIdadeMaior\obj\Debug\net6.0\LerIdadeMaior.pdb
+C:\Users\ccc\source\repos\Exercicios\LerIdadeMaior\obj\Debug\net6.0\LerIdadeMaior.genruntimeconfig.cache
+C:\Users\ccc\source\repos\Exercicios\LerIdadeMaior\obj\Debug\net6.0\ref\LerIdadeMaior.dll
