@@ -25,10 +25,10 @@ altura = double.Parse(Console.ReadLine());
 {
 
         double valorf1 = 62.1;
-        double valorf2 = -44.7;
-        double massaf1 = (valorf1 * altura) - valorf2;
+        double valorf2 = 44.7;
+        double valorf3 = (valorf1 * altura) - valorf2;
 
-        Console.WriteLine("Para o seu sexo feminino o seu peso ideal é de : " + massaf1 + " KG");
+        Console.WriteLine("Para o seu sexo feminino o seu peso ideal é de : " + valorf3 + " KG");
 }
  }
 catch
