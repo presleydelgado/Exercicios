@@ -43,7 +43,12 @@ namespace ClinicaBemViver
             {
                 MessageBox.Show("Valor invalido");
             }
-              
+
+            textBox1nome.Text = "";
+            textBox2telefone.Text = "";
+            textBox3email.Text = "";
+            textBox4idade.Text = "";
+            textBox5cpf.Text = "";
             
            
             
