@@ -1,0 +1,10 @@
+C:\Users\ccc\source\repos\Exercicios\ClinicaBemViver\bin\Debug\ClinicaBemViver.exe.config
+C:\Users\ccc\source\repos\Exercicios\ClinicaBemViver\bin\Debug\ClinicaBemViver.exe
+C:\Users\ccc\source\repos\Exercicios\ClinicaBemViver\bin\Debug\ClinicaBemViver.pdb
+C:\Users\ccc\source\repos\Exercicios\ClinicaBemViver\obj\Debug\ClinicaBemViver.csproj.AssemblyReference.cache
+C:\Users\ccc\source\repos\Exercicios\ClinicaBemViver\obj\Debug\ClinicaBemViver.formulario.resources
+C:\Users\ccc\source\repos\Exercicios\ClinicaBemViver\obj\Debug\ClinicaBemViver.Properties.Resources.resources
+C:\Users\ccc\source\repos\Exercicios\ClinicaBemViver\obj\Debug\ClinicaBemViver.csproj.GenerateResource.cache
+C:\Users\ccc\source\repos\Exercicios\ClinicaBemViver\obj\Debug\ClinicaBemViver.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\Exercicios\ClinicaBemViver\obj\Debug\ClinicaBemViver.exe
+C:\Users\ccc\source\repos\Exercicios\ClinicaBemViver\obj\Debug\ClinicaBemViver.pdb
