@@ -37,7 +37,9 @@ namespace ClinicaBemViver
                 string idade = textBox4idade.Text;
                 string cpf = textBox5cpf.Text;
 
-                MessageBox.Show($"Dados \nNome Completo: {nomecompleto} \nTelefone: {telefone} \nEmail: {email} \nIdade: {idade} \nCPF: {cpf}.");
+                this.richTextBox1resultado.Text = "Dados: " + "\nNome Completo: " + nomecompleto + "\nTelefone: " + telefone + "\nEmail: " + email + "\nIdade: " + idade + "\nCPF: " + cpf; 
+
+                //MessageBox.Show($"Dados \nNome Completo: {nomecompleto} \nTelefone: {telefone} \nEmail: {email} \nIdade: {idade} \nCPF: {cpf}.");
             }
             catch
             {

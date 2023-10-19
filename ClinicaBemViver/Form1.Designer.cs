@@ -39,6 +39,7 @@
             this.textBox4idade = new System.Windows.Forms.TextBox();
             this.textBox5cpf = new System.Windows.Forms.TextBox();
             this.button1salvar = new System.Windows.Forms.Button();
+            this.richTextBox1resultado = new System.Windows.Forms.RichTextBox();
             this.SuspendLayout();
             // 
             // label1
@@ -133,11 +134,20 @@
             this.button1salvar.UseVisualStyleBackColor = true;
             this.button1salvar.Click += new System.EventHandler(this.button1salvar_Click);
             // 
+            // richTextBox1resultado
+            // 
+            this.richTextBox1resultado.Location = new System.Drawing.Point(270, 33);
+            this.richTextBox1resultado.Name = "richTextBox1resultado";
+            this.richTextBox1resultado.Size = new System.Drawing.Size(321, 267);
+            this.richTextBox1resultado.TabIndex = 11;
+            this.richTextBox1resultado.Text = "";
+            // 
             // formulario
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(316, 388);
+            this.ClientSize = new System.Drawing.Size(603, 388);
+            this.Controls.Add(this.richTextBox1resultado);
             this.Controls.Add(this.button1salvar);
             this.Controls.Add(this.textBox5cpf);
             this.Controls.Add(this.textBox4idade);
@@ -169,6 +179,7 @@
         private System.Windows.Forms.TextBox textBox4idade;
         private System.Windows.Forms.TextBox textBox5cpf;
         private System.Windows.Forms.Button button1salvar;
+        private System.Windows.Forms.RichTextBox richTextBox1resultado;
     }
 }
 
