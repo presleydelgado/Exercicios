@@ -1,0 +1,180 @@
+Aula 1
+
+Objetivo Unidade 3 
+
+Conceituar JavaScript e adicionar interatividade a HTML.
+
+Criar scripts em JavaScript . Entender lógica de programação , tomada de decisões e laços de repetição.
+
+Implementar scripts com lógica de programação e operadores lógicos E e OU.
+
+
+Introdução a JavaScript
+
+Java script é uma linguagem de programação utilizada para adicionar interatividade a uma página HTML.
+
+Essa interatividade pode ser vista nas respostas quando botões são pressionados, na aplicação de animações , na inserção de dados em formulários e na criação de um estilo dinâmico e responsivo da página.
+
+<script language="javascript" type="text/javascript">
+	documento.write("Hello World")
+</script>
+
+O javascript pode interagir com quase todos os elementos de uma página html, trabalha com variaveis , gera relatórios, modifica elementos sem a necessidade de recarregar constantemente a página.
+
+O javascript em conjunto com HTML e CSS , formam uma das principais tecnlogias da internet.
+
+Com o javascript é possível a criação de páginas da WEB interativas sendo utilizado pela maioria dos sites e os principais navegadores têm um mecanismo javascript dedicado para executa-lo.
+
+
+Aula 2 
+
+Caracteristicas do JavaScript 
+
+Roda em qualquer plataforma
+
+Tem prioridade sobre o HTML e CSS
+
+Possibilita criar funcionalidades que não são possiveis comm HTML e CSS
+
+Possui sintaxe similar ao java , C e C++
+
+Tem modelo de objetos baseado em protótipos e não em classes, como no Java por exemplo
+
+Seu código é inserido no arquivo HTML utilizando a TAG <script>
+
+Suporta a utilização de variáveis sem necessidade de declaração
+
+É dirigida a eventos . Um clique em um botão por exemplo é um evento utilizado pelo JavaScript
+
+
+Aula 3
+
+Criação de scripts
+
+Scripts são a essência do JavaScript e podem ser inseridos nas TAGs <head> e <body> em uma página HTML. E para delimitar os scripts eles devem estar inseridos entre as TAGs <script>;
+
+Nos scripts existem elementos especiais para a colocação de comentários e alertas.
+
+
+Aula 4
+
+Criação de Scripts 
+
+Na criação de scripts é possível implementar confirmações.
+
+Também é permitido inserir avisos para o usuário
+
+
+Aula 5
+
+
+Lógica de Programação 
+
+A principal característica para a resolução de problemas é a capacidade de pensar de maneira lógica. E a lógica de programação está ligada diretamente a essa capacidade.
+
+Outra situação importante relacionada a lógica de programação é a divisão da resolução desses problemas em partes menores.
+
+
+Estrutura básica da estrutura de tomada de decisão 
+
+se (if) condição 
+	Comandos /* Quando a condição for verdadeira */
+senão (else)
+	Comandos /* Quando a condição for falsa */
+
+Operador		função
+condicional
+
+===			Igual	
+!==			Diferente
+>			Maior que 
+<			Menor que
+>=			Maior igual
+<=			Menor igual
+
+----------------------------------------------
+
+//Atribuição de um valor para a variavel vendas 
+
+let vendas = 500;
+
+//Verificação da condicional
+
+if (vendas > 1000)
+	{
+		vendas = vendas * 0.95; //calculo do desconto de 5%
+	}
+else	{
+		vendas = vendas * 0.99; //calculos do desconto de 1%
+	}	
+document.write(vendas)
+
+------------------------------------------------------------------
+
+
+
+Aula 6
+
+Lógica de programação 
+
+Tomada de decisão 
+
+Laços de repetição
+
+Operadores lógicas : AND e OR
+
+
+
+-------------
+
+sintaxe - estrutura
+
+enquanto (while) <condição>
+{
+	comandos;
+	contador;
+}
+
+
+-------------------------------------
+
+let cont = 100;
+
+while (cont < 1000)
+	{
+	document.write(cont, '<br>')
+	cont = cont + 100; //incremento do valor - sempre tem que ter algo para quebrar do loop,se não vai dar loop continuo
+	}
+
+-----------------------------------------
+
+//Operadores lógicos : AND (&) e OR (|)
+
+let valor = 500;
+let qtde = 1;
+
+if (valor > 100) & qtde > 5 )
+{
+	document.write("As duas comparações são verdadeiras")
+}
+else
+	{
+	document.write("As duas comparações são falsas")
+	}
+
+
+
+Aula 7 
+
+Finalização 
+
+Conclusão 
+
+Esta unidade trouxe a linguagem javascript, muito conhecida no mercado, que possibilita a implantação de regras de negócio em uma página HTML.
+
+Possibilita a implementação de variáveis, operadores aritméticos, estruturas de repetição e de decisão.
+
+Com a aplicação dessas estruturas, consegue-se controlar o fluxo do algoritmo com repetições controladas e decisões a partir de comparações inseridas na estrutura da página
+
+Introdução de lógica de programação onde foi visto os operadores lógicos AND e OR que possibilitam a aplicação de testes lógicos nas estruturas de repetição e decisão.
+

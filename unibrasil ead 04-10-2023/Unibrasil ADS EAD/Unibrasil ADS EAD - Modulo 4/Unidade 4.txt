@@ -1,0 +1,147 @@
+Aula 1
+
+Laços de repetição
+
+"Muito util para fazer lista de clientes "
+
+Instruções de iterações 
+
+- Executa uma instrução ou um conjunto de instruções várias vezes.
+
+Laços :
+
+For	- Quantidade de vezes que deve repetir.
+Do	- Garantido de uma iteração do laço
+While	- Oposto do "DO" , ele faz o teste no começo, se o teste deu certo,ele volta a testar novamente . Antes da primeira iteração.
+
+
+Aula 2 
+
+Principal caracteristica do for - definido número de interações 
+
+sintaxe :
+
+	for (inicialização; condição; incremento){
+		//bloco de instruções a serem executadas
+	}
+
+-Inicialização = inicializa uma variavel de controle
+-Condição = verifica se ja atingiu a condição de parada ( expressão booleana)
+-Incremento = incremento ou decremento da variavel de controle.
+
+
+Aula 3
+
+Laço DO
+
+do {
+	//bloco com as instruções a serem executadas
+}while (condição);
+
+-Condição é verificada após a execução das instruções;
+-As instruções serão executadas no minimo uma vez;
+-A condição tem de ser modificada dentro do bloco;
+
+O DO  nos garante a execução de uma interação no processo!!!
+
+Codigo 1 :
+
+int x = 1;
+
+do
+{
+    Console.WriteLine("Valor " + x);
+    x++;
+
+}while (x  <= 10);
+
+Codigo 2 :
+
+int x = 1;
+int total  = 0;
+
+do
+{
+    total += x;
+    x++;
+    
+
+}while(x <= 10);
+
+Console.WriteLine("valor " + total);
+
+//Preste atenção nas chaves,se tu por no local errado,nunca irá dar certo!!! 
+
+
+Codigo 3 :
+
+Console.WriteLine("Digite um valor: ");
+
+
+int valorusuario = int.Parse(Console.ReadLine());
+int x = 1;
+int total = 0;
+
+
+
+do
+{
+    total += x;
+    x++;
+
+
+}while (x <= valorusuario);
+
+Console.WriteLine("Total : " + total);
+
+
+Aula 4
+
+Laço while
+
+sintaxe :
+
+while (condição) {
+	//bloco com as instruções a serem executadas
+}
+
+-Testa a condição antes de cada execução do iteração.
+-As instruções poderão não ser executadas nenhuma vez.
+-A condição tem de ser modificada dentro do bloco de instrução.
+
+
+Aula 5
+
+Encadeamento de laços 
+
+-Um laço dentro de outro
+
+exemplo :
+1 - Para cada iteração do laço externo, três iterações do laço interno;
+2 - Imprima as posições - uma matriz de tamanho variado :
+
+Resposta :
+
+Console.Write("Digite o tamanho da matriz:");
+
+int tamanho = int.Parse(Console.ReadLine());
+
+
+for(int x = 0; x <= tamanho; x++)
+{
+    for(int y = 0; y <= tamanho; y++)
+    {
+        Console.Write("(" +x+ ","+y+")");
+    }
+    Console.WriteLine();
+}
+
+
+Aula 6
+
+
+Implemente um aplicativo que imprima as tabuadas :
+
+-de zero até o número indicado pelo usuário
+- da operação selecionada pelo usuário.
+

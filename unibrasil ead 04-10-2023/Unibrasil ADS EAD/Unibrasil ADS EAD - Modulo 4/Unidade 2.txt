@@ -1,0 +1,137 @@
+Algoritmos
+
+Concilio define algoritmos como : um algoritmo representa um conjunto de regras para a solução de um problema.
+
+Tem várias regras claras e precisas e propositos a alcançar.
+
+Manzano e Oliveira (2019)
+
+Na ciencia da computação,está associado a um conjunto de regras e procedimentos lógicos perfeitamente definidos que levam a solução de um problema em um número finito de etapas.
+
+Regras e procediemntos,perfeitamente definidos, solução de um problema , número finito de etapas.
+
+Os algoritmos em nosso dia a dia
+
+-Ensinar um caminho.
+-Uma receita culinaria.
+-Executar um exercicio fisico.
+
+Os algoritmos e os computadores são uma necessidade,organizam o problema em uma sequencia lógica.
+
+-Abstrair
+
+Imaginar as etapas logicamente.
+
+Algoritmo --> Linguagem de programação --> software.
+
+Principais etapas do desenvolvimento
+
+-Análise
+-Projeto
+-Implementação
+-Testes
+
+
+
+Aula 2
+
+Instalando vscode para utilizar com a linguagem c# (c sharp).
+
+
+Aula 3 
+
+Codando
+
+Aula 4 
+
+As variaveis são necessárias na nossa criação de software.
+
+Tipo booleano (bool)
+
+aceita true e false 
+
+tipo charactere 
+-char
+
+coupa 16 bits em memoria para guardar 1 caractere
+
+Tipo cadeia de caractere
+-String
+
+São nomes,frases,varios caracteres.Pode guardar caracterer númerico mas não terá valor numerico.ex: O valor 32, mas não posso usar ele para fazer somas ou substrações.
+
+As variáveis são recursos na linguagem de programação para se guardar temporariamente dados, ao longo da execução de um processo.
+
+Existem linguagens que chamam as variaveis de "tipadas" e "não tipadas".
+
+Tipada = Ela tem tipos de variaveis.
+
+Não tipadas = Elas não definem o tipo da variavel.
+
+C# = Tipada
+
+no c# float e 4.23 da erro, use double e o ponto no 4.23 para dar certo 
+
+Todo valor flutuante no codigo , literal com ponto no codigo,é valor double.
+
+ou use float mas ponha um f no final dos numeros
+
+
+Aula 5 
+
+float valorum = float.Parse(textBoxValorUm.Text);
+float valordois = float.Parse(textBoxValorDois.Text);
+
+float resultado = valorum + valordois;
+
+labelresposta.Text = resultado.ToString();
+
+
+
+Aula 6 
+
+Aprendemos a usar o try catch = 
+
+int anoReferencia = 2040;
+int anoNascimento = 0;
+try
+{
+    anoNascimento = int.Parse(textBoxanonascimento.Text);
+}
+catch
+{
+    MessageBox.Show("Valor invalido");
+}
+
+int idade = anoReferencia - anoNascimento;
+
+label2resultado.Text = "A idade é " + idade + " no ano de " + anoReferencia;
+
+
+Uma variavel, tipo if , else,  
+
+exemplo : digite o ano do seu nascimento,se for digitado números,o programa irá resolver,mas se for digitado letras,irá mostrar que o valor é invalido.
+
+
+Aula 7 
+
+Aplicativo raiz quadrada 
+
+Calcule a raiz quadrada de cada valor fornecido.
+
+Math.Sqrt(valorbase)
+
+ double valorbase = 0;
+
+ try
+ {
+     valorbase = double.Parse(ValorOriginal.Text);
+     double raizQuadrada = Math.Sqrt(valorbase);
+     Resultado.Text = "A raiz quadrada é " + raizQuadrada;
+ }
+ catch
+ {
+     MessageBox.Show("Valor invalido");
+ }
+
+

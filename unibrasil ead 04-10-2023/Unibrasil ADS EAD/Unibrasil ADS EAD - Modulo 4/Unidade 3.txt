@@ -1,0 +1,99 @@
+Aula 1
+
+Operadores
+
+São comandos ou instruções dentro de uma linguagem de programação.
+
+Alguns grupos : aritmeticos , relacionais e os logicos.
+
+Valores literais e em variáveis.
+
+
+Operação		Caractere operador
+
+adição				+
+subtração			-				
+multiplicação			*
+divisão				/
+resto				%
+
+ex: int resultadoSoma = 32 + 3;		// resultado : 35
+float resultadoDivisao = 100/10;	// resultado : 10
+
+
+Operadores relacionais
+
+Os operadores relacionais comparam seus operados. 
+O resultado de uma operação relacional sempre será um valor booleano ("true" ou "false").
+
+
+Operação 			Caractere operador
+menor que				<
+maior que				>
+menor que ou igual			<=
+maior que ou igual			>=
+igual					==
+
+ex:
+bool resultadoMenorQue = 14324 < 45;		// resultado false
+bool resultadoMaiorQue = 14324 >= 45;		// resultado true
+
+
+Operadores lógicos 
+
+Os operadores lógicos são aplicaveis para relacionar duas expressões relacionais.
+
+O resultado de uma operação logica sempre será um valor booleano (true/false)
+
+operação 			caractere operador
+negação					!
+E 					&
+OU					|
+
+ex:
+bool negação =!(5>2);			// resultado : false
+bool eLogico = (5>2) & (5<10);		// resultado :true
+bool ouLogico = (5>2) ou (5>1);		// resultado : true
+
+
+Aula 2 
+
+if =
+
+if 
+if...else...
+encadeamento de if (if dentro do outro) (não é recomendado mas acontece).
+
+-switch
+-operador ternario
+
+A instrução if executa uma instrução ou um bloco de instruções se a condição/expressão for verdadeira (true).
+
+Demonstração com literais e variaveis
+
+cenários= valor impar,valor par .
+
+
+IF...ELSE...
+
+As instruções contidas no bloco "else" serão executadas se a expressão/operação resultar em "false".
+
+
+
+int valorum = 0;
+int resto = valorum % 2;
+int zero = 0;
+
+if (resto > 0) 
+{
+    Console.WriteLine("É Impar !");
+}
+else
+{
+    Console.WriteLine("É Par!");
+}
+if (valorum == 0 )
+{
+    Console.WriteLine("É zero ");
+}
+

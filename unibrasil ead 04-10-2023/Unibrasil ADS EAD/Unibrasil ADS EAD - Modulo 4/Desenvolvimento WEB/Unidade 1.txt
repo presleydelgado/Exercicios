@@ -1,0 +1,99 @@
+Aula 1 
+
+		Objetivos Unidade 1 
+
+-Conceituar HTML quanto a sua utilização e possibilidades de desenvolvimento de páginas WEB.
+-Criar documentos HTML.
+-Dominar listas , inserir imagens e tabelas,aplicar cores e formatar fontes e parágrafos.
+
+Introdução HTML
+
+- O instrumento utilizado para a construção das páginas da WEB.
+- O desenvolvimento de páginas web tem como base a linguagem HTML,CSS e JAVASCRIPT, elementos que serão vistos na sequencia da disciplina de Desenvolvimento WEB.
+- Páginas WEB são compostas por um número grande de arquivos, imagens, videos e um elemento muito importante, o código fonte.
+- O Código fonte que compõe as páginas da web está escrito um uma linguagem chamada HTML (Hypertext Markup Language) e é interpretada pelos navegadores.
+- HTML não é uma linguagem de programação, é uma linguagem de marcação,usada para definir a estrutura de uma página.
+- HTML é formado por uma série de elementos, que são utilizados para delimitar ou agrupar as partes do conteúdo para que seja exibido de determinada maneira.
+- As TAGs que compõem a linguagem, podem transformar uma palavra ou imagem em um hiperlink, podem colocar palavras em itálico, podem aumentar ou diminuir a fonte e assim por diante.
+- Exemplo TAG <tag de abertura> elementos da página </tag de fechamento>
+
+
+Aula 2 
+
+
+Para a criação de documentos de HTML é necessario um editor de texto que não utiliza imagem.
+
+Um editor bastante utilizado no mercado é o Notepad++.
+
+Salvar o documento com extensão HTML
+
+
+Aula 3 
+
+As TAGs são etiquetas que delimitam a estrutura de um documento HTML. O browser fará a leitura das TAGs e montará a página conforme a formatação estipulada pelos comandos HTML.
+
+Uma TAG e´iniciada com o sinal de menor "<" e finalizada com o sinal de maior ">". O HTML na maioria dos casos, prevê uma TAG de fechamento para cada TAG aberto, isso delimita a área de influência da TAG. Para a TAG de fechamento é adicionado o caractere "/" na frente do nome da TAG, com o mesmo nome da TAG de abertura.
+
+As TAGs podem ser escritas em maiúsculas ou minusculas, porém não podem conter espaços em branco.
+
+
+Aula 4
+
+Estrutura básica do HTML
+
+Um documento HTML possui uma estrutura básica divida em quatro TAGs principais : HTML , HEAD , TITTLE e BODY. Que definem a parte principal , o cabeçalho e o corpo da página.
+
+<HTML> : delimita os comandos HTML indicando o inicio e o fim da página.
+
+<HEAD> : utilizado para inserir parâmetros de configuração e para exibir o título da página.
+
+<TITLE> : usado para mostrar o titulo do documento. Essa TAG deve estar entre as TAGs <HEAD> e </HEAD>.
+
+<BODY> : é todo o conteúdo da página que será mostrado no navegador ou browser.
+
+
+Aula 5 
+
+Corpo do Documento 
+
+Parte da página que contém o conteúdo que será visualizado no navegador e é delimitado pelas TAGs <BODY> e </BODY>.
+
+Possui atributos que permitem definir cor de fundo da página, cor das fontes, links e imagem de fundo.
+
+Os principais atributos para a TAG BODY são : bgcolor, font, link, alink, vlink e background.
+
+Para acessar links da internet a TAG <a> e </a> é utilizada.
+
+
+ 
+Aula 6 
+
+Formatação de texto
+
+Para uma perfeita harmonização do conteúdo da página faz-se necessário a formatação dos textos nela inseridos.
+
+Tipo e tamanho das fontes, alinhamento e espaçamento dos parágrafos são itens importantes a serem formatados em uma página.
+
+E essa formatação é realizada de uma forma bem simples na HTML utilizando para isso TAGs específicas para cada uma das opções citadas.
+
+Formatação de fontes 
+SIZE: Indica o tamanho da fonte que pode variar entre 1 e 7
+FACE: Indica o TIPO da fonte
+COLOR: Indica a cor da fonte
+B: Texto em negrito
+U: Texto sublinhado
+I: Texto em italico
+
+
+Aula 7 
+
+Conclusão 
+
+Esta unidade teve como objetivo mostrar as caracteristicas básicas da linguagem de formatação HTML e sua importancia relevante no desenvolvimento de conteudo para a internet.
+
+Foi mostrado a estrutura básica de um documento HTML e o funcionamento das TAGs.
+
+No corpo do documento foi visto formatação de cor de fundo, cor das fontes, links , imagens e imagem de fundo
+
+Em formatação de texto foi visto como alterar as fontes , parágrafos, cabeçalho , quebra de linha e tabelas.
+

@@ -1,0 +1,481 @@
+Algoritmos e Lógica de Programação
+
+Tópicos
+
+-Lógica
+
+-Proposições simples e compostas
+
+-Conectivos lógicos
+
+-Cálculo proposicional
+
+Lógica É a base de todas as atividades na computação.
+
+Estudaremos a lógica proposicional, é uma das linhas da lógica.
+
+Lógica consiste em formular os sistemas do bem racionar.(Goldstein).
+
+Usar o Raciocínio para se chegar a lógica.
+
+Linguagem
+
+Linguagem normal - usada no dia a dia , imprecisa e Ambígua.
+
+Linguagem Formal - Nos estudos da lógica matemática/computacional.
+
+
+A linguagem proposicional é baseada em proposições : (proposições é uma sentença declarativa.Uma frase que exprime um pensamento de sentido completo.Declaração de um fato que pode ser verdadeiro ou falso).
+
+Ex: Está chovendo.
+
+Proposições declarativas : Além de serem declarativas,elas têm de atender a dois principios:
+
+Principio do Terceiro excluido: Só pode ser verdadeira ou falsa.
+
+Principio da não contradição : Não pode ser falsa ou verdadeira ao mesmo tempo.
+
+Exemplos :
+
+O ser humano é o maior mamífero : falso
+
+É aceitavel dizer que a Terra é redonda : Ambigua
+
+O computador é inteligente : Falso
+
+Esta semente resultará em uma flor linda : Verdadeiro
+
+Proposição :
+Verdadeira;
+Falsa;
+
+Ex: está chovendo.
+Verdade se estiver chovendo.
+Falsidade se não estiver chovendo.
+
+Valor lógico é o valor atribuido a uma preposição.
+
+V ou F.
+
+Algoritmos e Lógica de programação Aula 3
+
+Proposições simples
+
+Atômicas : Uma única sentença.
+
+Ex: Está chovendo.
+    Estou estudando.
+    É noite.
+
+Proposição composta
+
+Molecular : Duas ou mais proposições simples.
+
+Ex : É noite e estamos estudando.
+     Estamos andando ou estamos parados.
+     Se estamos estudando,então estamos vivos.
+
+Variáveis proposicionais
+
+São letras proposicionais , facilitam as analises das proposições compostas.
+
+Facilitam os estudos das proposições compostas,representam-se cada sentença com uma letra latina maiúscula.
+Usual : P, Q e ....
+
+Exemplos :
+
+P: Vou a praia.
+Q: Fizer sol.
+R: Vou ao jogo.
+S: Bebo agua.
+T: Como pão.
+
+Se eu tiver uma sentença com varias proposições simples eu transformo cada uma das sentenças em variaveis proposicionais e as organizo de uma forma que facilita a analise.
+
+P indexada por um número natural :
+
+Ex: P1,P2,P3,P4...
+
+
+Aula 4
+
+
+Conectivos lógicos
+
+São as conexões entre duas preposições simples, como o E o O maiusculo,o que foi visto anteriormente.
+
+São o elo entre as proposições simples que compõe uma proposição composta. São
+
+São eles os responsáveis pelo sentido lógico da sentença. Numa preposição composta sem os conectivos não teria sentido lógico,eles são fundamentais.A proposição só é valida verdadeiro ou falso,e o resto que da sentido lógico é os conectivos.
+
+São a base das operações lógicas.O processador de um computador é formado por operadores lógicos.
+
+Consideraremos quatro conectivos:
+A conjunção ("E");
+A disjunção ("OU");
+A implicação ("SE...ENTÃO...");
+A negação ("NÃO");
+
+
+Aula 5
+
+Conectivo lógico "E"
+
+Indica a realização das duas preposições
+
+Ex: Bebo água E como pão.
+
+"As duas sentenças tem de ser verdadeiras para que toda a proposição composta seja verdadeira,se apenas umas delas for verdadeira,a conjunção não se cumpriu,ou seja,será falsa."
+
+O símbolo ou o operador é "^". (Acento circunflexo para representar o E).
+
+Ex bebo água e como pão.
+
+Variável proposicional.
+
+Cada proposição simples pode ter dois valores (V/F).
+
+Várias possibilidades de resultado (combinação).
+
+Organizando as combinações
+
+Ex : Bebo água (V,F) e como pão (V,F).
+
+Possibilidade   Bebo água   Como pão    Análise
+                    P           Q          P^Q
+
+    01              V           V           V
+    02              V           F           F
+    03              F           V           F
+    04              F           F           F
+
+Os dois tem que ser verdadeiros para dar verdadeiro.
+Se houver um falso no meio,sempre irá dar o resultado de falso.
+
+
+Ex : estou estudando e estou animado.
+P = Estou estudando (V,F).
+Q = Estou animado (V,F).
+
+Possibilidade   Estou estudando     Estou animado   Análise
+                        P                  Q          P^Q
+
+    01                  V                  V           V
+    02                  V                  F           F
+    03                  F                  V           F
+    04                  F                  F           F
+
+
+Está conjunção E é do nosso dia a dia,a unica foi feita foi colocado a roupagem para a programação.
+
+
+
+Aula 6
+
+
+Conectivo Lógico - "OU" - Disjunção
+
+Indica que uma das duas proposições será realizada. Esses conectivos tem sentido dentro de uma proposição composta.
+
+Ex: irei às compras OU ficarei em casa.
+
+O simbolo ou operador é "V".
+
+A disjunção nos diz que basta uma ser verdadeira para ser tudo verdadeiro.Só não ser verdadeiro se as duas proposições forem falsas.
+
+-Variável proposicional para cada uma das proposições.
+-Cada proposição simples dois valores (V/F).
+-Varias possibilidades de resultado (combinação).
+
+Organizando as combinações.
+
+EX: irei ás compras (V,F) ou ficarei em casa (V,F).
+
+Irei às compras     Ficarei em casa       Análise
+      P                     Q              P v Q
+
+      V                     V                V
+      V                     F                V
+      F                     V                V
+      F                     F                F
+
+
+Conectivo lógico
+
+"não" - Negação
+
+-Uma negação da proposição que sucede. O simbolo vem antes da proposição e a proposição vem depois do simbolo de negação.
+
+Ex: a proposição "Vou para casa" com o conectivo negação , ficará "Não vou para casa".
+
+O símbolo ou operador "não" são p "¬" ou o "~" (tiu).
+
+P = "Vou para casa".
+
+~P = "Não vou para casa".
+
+Ex: tabela
+
+Vou à praia     analise
+     P             ~P
+
+     V              F
+     F              V
+
+
+
+Aula 7
+
+Esse necessita de um cenário muito especifico para o "então" trabalhar
+
+Conectivo Lógico - "SE...ENTÃO..." - Implicação
+
+-Implicação
+-SE condição... ENTÃO que...
+Só será realizado o "então" se a condição "se" for satisfeita.
+
+Ex: SE sapato preto ENTÃO que seja fosco.
+
+-O símbolo ou operador se...então é "-->".
+
+"Ao comprar um sapato,se for da cor preta,quer que seja preto fosco.
+
+Está implícito que pode ser qualquer outra cor,brilhante ou fosco. Mas se for preto tem de ser fosco."
+
+---------
+
+Ex: SE sapato preto ENTÃO que seja fosco.
+
+-Variavel proposicional
+-Cada proposição simples pode ter dois valores (V/F).
+-Várias possibilidades de resultado (combinação).
+
+-Organizando as combinações
+Ex: P = SE sapato preto (V,F) ENTÃO Q = que seja fosco (V,F).
+
+Sapato Preto    Que seja fosco      análise
+      P                Q              P -> Q
+
+      V                V                V
+      V                F                F
+      F                V                V
+      F                F                V
+
+Ao comprar um sapato ,se for da cor preta,quer que seja preto fosco.
+
+Está implicíto que pode ser qualquer outra cor,brilhante ou fosco. Mas se for preto tem de ser fosco.
+
+- Cenário exemplo:
+-"Um comprador na feira está procurando batatas maduras, sejam elas pequenas ou grandes. Se for batata verde, ela tem que ser grande."
+
+
+Proposições
+-P : Batatas maduras
+-V : Significa batatas maduras;
+-F : Significa batatas verdes;
+
+Q : Batatas Grandes
+-V : Significa batatas grandes;
+-F : Significa batatas pequenas;
+
+"SE for batata verde ENTÃO tem que ser grande".
+
+Tabela:
+
+"SE for batata verde ENTÃO tem que ser grande".
+
+Batatas verdes      Batatas grandes     Análise
+       P                   Q              P -> Q
+
+       V                   V                V
+       V                   F                F
+       F                   V                V
+       F                   F                V
+
+
+
+
+Aula 8
+
+Calculo proposicional
+
+Dão o sentido de como o computador irá trabalhar
+
+Consiste em avaliar expressões compostostas,só irá haver calculo se tiver mais de uma proposição simples dentro de uma proposição, que é chamado de proposição composta.
+
+Expressões que atendam a logica proposicional , quando houver uma proposição composta que atenda a logica proposicional , ai sim é aplicado o calculo proposicional.
+
+-Juntar :
+as proposiçoes
+os valores lógicos das proposições
+os conectivos lógicos
+as variaveis proposicionais
+
+Etapas / Veremos:
+
+Visão geral
+Fórmulas
+Tabela verdade
+Proposiçẽso com duas operações
+Proposições com três operações
+Invertendo precedências
+
+
+--------------------------------------------------------
+TABELA PARA ENTENDER NEGAÇÃO DE TODO,ALGUM E NENHUM
+
+Proposição          Negação
+
+Todo...             Algum...não...
+Algum...            Nenhum...
+Algum...Não...      Todo...
+Nenhum...           Algum...
+
+Quando não houver "algum", procure por Existe,Pelo menos um,Ao menos um.
+
+
+E para negar o conectivo por exemplo: E , se usa o conectivo OU, e vice e versa.
+
+---------------------------------------------------------
+
+Recursos :
+-conectivos logicos;
+-variaveis logicas;
+-valores logicos;
+
+proposição : está sol e está calor.
+
+passos:
+1 - definindo variaveis proposicionais para cada proposição simples.
+
+P: está sol.
+Q:está calor.
+
+2- identificar os conectivos.
+
+Conectivo : e
+
+3 - organizar a expressão logica com as variaveis e conectivos.
+
+representação simplificada (formula): P e Q
+
+
+
+Operação        Conectivo       Simbolo/Operadores
+
+Conjunção           E                   ^
+Disjunção           OU                  v
+Implicação      Se...Então...           -->
+Negação             Não                 ¬ ou ~
+
+
+
+-As fórmulas são as representações da proposição composta, por variaveis e operadores.
+
+-Por meio das fórmulas é mais fácil validar uma expressão logica.
+
+ex: P ^ Q
+
+----------------------------------------------------------------
+Se numa proposição composta houver mais de um operador, qual operador eu resolvo primeiro ?
+
+
+    1°              2°             3°              4°
+Negação (¬/~)   conjunção(^)   disjunção(v)   implicação(-->)
+
+
+----------------------------------------------------------------
+
+
+A logica proposicional também é chamada de : Qualitativa , Sentencial , argumentativa , P e Q , Tabela verdade , Logica formal.
+
+
+
+Aula 9
+
+Tabela verdade
+
+Nos ajudam na análise de uma formula
+
+1-Identificam-se as proposições simples/atômicas e cria-se uma coluna para cada proposição.
+2-Cria-se todas as combinações de V e F.
+3-Cria-se as colunas à direita da tabela,para cada par de operações da fórmula.
+4-Respeitando a precedência dos operadores , resolve-se cada uma das operações.
+
+
+A conjunção (^) é verdadeira apenas quando ambas as proposições conectadas são verdadeiras.
+
+
+Condição para o conectivo "E" (^ conjunção)  ser "V" ( Quando for "V V").
+
+Condição para o conectivo "OU" (v disjunção) ser "V" (Não pode ter "F F").
+
+Condição para o conectivo "SE,ENTÃO" (> implicação) ser "V" (Não pode "V F").
+
+Condição para o conectivo "SE,E SOMENTE SE" ser "V" (Quando for "V V " ou "F F").
+
+Condição para o conectivo "Ou...Ou..." ser "V" (Quando for "V F " ou "F V").
+
+
+
+Aula 10
+
+A quantidade de linhas , tem uma formula para determinar a quantidade de linhas.
+
+Determinada pela quantidade de valores (V e F) elevada à quantidade de proposições simples.
+
+Duas proposições = 2 valores para cada proposição
+
+
+-P ^ Q          2² = 4 linhas
+-P ^ Q v R      2³ = 8 linhas
+-P ^ Q v P      2³ = 8 linhas
+
+Para cada proposição eu tenho 2 valores, pode ser V ou F e tenho 3 proposições , então 2 elevado a 3 (2³=8 linhas), a quantidade de proposições que determina a quantidade de linhas  ( combinações ) na montagem da tabela verdade.
+
+
+- Passos de montagem da tabela verdade
+
+1 - identificam-se as proposições simples e cria-se um coluna parada cada proposição.
+
+2 - Cria-se todas as combinações possiveis de V e F.
+
+3 - Cria-se colunas à direita da tabela, para cada par de operações da fórmula.
+
+4 - Respeitando a precedência dos operadores , resolve-se cada uma das operações.
+
+Se uma proposição se repete na formula, não repetimos ela na coluna,deixamos ela na ordem que ela foi criada na tabela verdade.
+
+Para cada operação,é uma coluna que vamos colocando a direita na tabela.
+
+- Montando
+
+Primeira coluna : 50% V e 50% F.
+
+Segunda coluna : 25% V seguido de 25% F - alternadamente
+
+Terceira coluna e demais: 25% V seguido de 25% F - alternadamente
+
+Última coluna : V e F alternadamente.
+
+Resolver :
+
+P ^ Q v R :
+~P ^ Q v R :
+~P ^ Q > R :
+P ^Q > R :
+
+(Q v R) ^P :
+~P ^ (Q v R) :
+(Q > R) v ~P :
+P ^ (Q > R) :
+
+
+
+
+
+
+
+
+
+

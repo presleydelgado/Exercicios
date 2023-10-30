@@ -1,0 +1,132 @@
+Objetivo Unidade 2 
+
+Compreender e aplicar folhas de estilo em cascata (CSS).
+
+Criar folha de estilo do tipo interna ou externa.
+
+Formatar tipos de folha de estilo.
+
+Personalizar TAGs e atalhos.
+
+
+Introdução CSS
+
+Cascading Style Sheets ( CSS ) Ou folha de estilo em cascata é um estilo de desenvolvimento de sites muito interessante , pois a partir de uma lista de configurações é possível melhorar o visual , facilitar a criação e a manuntenção das páginas.
+
+Além disso, é possível diminuir o tamanho do código da página e aumentar a velocidade de carregamento. Com a diminuição do código há mais controle sobre o leiaute do documento.
+
+Os estilos criados são defenidos como uma regra CSS. Cada regra criada utilizará a seguinte sintaxe:
+
+Elemento {atributo1:valor; atributo2:valor...; atributoN:valor};
+
+Onde: 
+Elemento - é o nome ao qual será chamado o estilo a ser aplicado no conteúdo da página. A partir da definição do elemento, ele será utilizado no corpo (body) da página.
+
+Atributo - São as configurações utilizadas pelo elemento, como cor, tamanho , alinhamento , tipo de fonte e outros itens que podem ser aplicados à pagina.
+
+Valor - É a configuração aplicada ao atribulo, como blue, 12 , center , arial . Se o valor for um palara composta , deverá estar entre aspas duplas ou simples.
+
+
+Aula 2 
+
+Estilos 
+
+Os estilos são as formatações aplicadas aos objetos de uma pagina 
+
+Estes estilos podem ser criados em uma folha de estilo 
+
+Essas folhas podem ser inseridas em uma página de três maneiras :
+-localmente
+-em uma folha de estilo interna
+-em uma folha de estilo externa
+
+
+Aula 3 
+
+Formatação de Texto
+
+Para uma boa harmonização de uma página é necessário a formatação dos textos, quanto ao tipo e tamanho das fontes, alinhamento e espaçamento dos parágrafos, cores de fundo e dos cabeçalhos.
+
+Com a utilização do CSS esse trabalho é facilitado, pois a partir da definição das formatações é necessário setar esses valores somente uma única vez a partir dos estilos definidos na TAG <style>.
+
+Fontes = 
+
+color : cor
+font-family : tipo da fonte
+font-size : tamanho
+font-style : estilo
+font-variant : fontes maiúsculas mais baixas
+font-weight : espessura da fonte
+font-stretch : fonte mais estreita ou larga
+font : maneira abreviada para declarar todas as propriedades anteriores ( exceto cor ). (shorthand).
+
+Paragrafos :
+
+text-align : alinhamento do texto ( left, right , center ou justify)
+margin-top : margem superior
+margin-bottom : margem inferior
+text-indent : identação do paragrafo
+
+Cabeçalhos :
+
+display: modo de exibição dos elementos, block ou inline.
+font-size : tamanho da fonte
+margin-top : margem superior
+margin-bottom: margem inferior
+margin-left : margem esquerda
+margem-right: margem direita
+font-weight : espessura da fonte
+
+Aula 4 
+
+Formatação de texto - seletores
+
+Existem elementos que têm o mesmo estilo na folha de estilos. Para evitar a repetição desses estilos é possivel usar o seletor de pacotes, separando os elementos por vírgulas. 
+
+Quando se utiliza o agrupamento de seletores para os valore iguais, muitas vezes há a necessidade de atribuir novos itens aos seletores.
+
+Para isso é possível complementar os seletores adicionando novos itens na folha de estilo.
+
+
+Aula 5
+
+
+TAGs Personalizadas
+
+Com as classes de estilo se consegue criar variações de uma TAG. Pode-se , por exemplo , criar um estilo de parágrafo com o texto alinhado à esquerda, um estilo com texto alinhado à direita e outros alinhamentos, tendo assim vários temas da TAG <p>.
+
+Para criar uma TAG personalizada , é preciso escolher o elemento ao qual ela será aplicada e o nome da classe, o nome do atributo e o seu valor. Para utilizar a classe é só digitar classe= "Nome da Classe" junto com o elemento para o qual ela foi criada.
+
+
+Aula 6 
+
+Atalhos de CSS
+
+Alguns atributos de CSS podem ter diversos valores em uma declaração.
+
+Pode-se por exemplo, definir várias formataçõoes para fontes de um parágrafo.
+
+ex :
+font-family : arial;
+font-sie : 25;
+font-style : italic;
+font-variant : small-caps;
+font-weight : bold;
+font-stretch : condensed;
+
+Atalho : 
+font: "arial" 25 italic small-caps bold condensed;
+
+
+Aula 7 
+
+Conclusão unidade 2 
+
+A unidade 2 trouxe a CSS , ou folha de estilo em cascata, que é um estilo de desenvolvimento de sites muito interessante, pois a paritr de uma lista de configurações é possível melhorar o visual , facilitar a criação e a manuntenção das páginas e sistemas WEB.
+
+Sua principal caracteristica é manter os comandos de formatação separados dos comandos HTML.
+
+Foi mostrado a criação de folhas de estilos, tanto internas como externas, além das características de formatação de fontes, parágrafos e cabeçalhos.
+
+Foi possivel ver como funciona o agrupamento e o complemento dos seletores e a inclusão de comentários nas folhas de estilo.
+
