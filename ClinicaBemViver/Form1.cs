@@ -31,26 +31,27 @@ namespace ClinicaBemViver
         {
             try
             {
-                string nomecompleto = textBox1nome.Text;
-                string telefone = textBox2telefone.Text;
-                string email = textBox3email.Text;
-                string idade = textBox4idade.Text;
-                string cpf = textBox5cpf.Text;
+                string nomecompleto = textBoxnome.Text;
+                string telefone = textBoxtelefone.Text;
+                string email = textBoxemail.Text;
+                int idade = int.Parse(textBoxidade.Text);
+                string cpf = textBoxcpf.Text;
 
-                this.richTextBox1resultado.Text = "Dados: " + "\nNome Completo: " + nomecompleto + "\nTelefone: " + telefone + "\nEmail: " + email + "\nIdade: " + idade + "\nCPF: " + cpf; 
+                
+                this.richTextBoxresultado.Text = "Dados: " + "\nNome Completo: " + nomecompleto + "\nTelefone: " + telefone + "\nEmail: " + email + "\nIdade: " + idade + "\nCPF: " + cpf; 
 
                 //MessageBox.Show($"Dados \nNome Completo: {nomecompleto} \nTelefone: {telefone} \nEmail: {email} \nIdade: {idade} \nCPF: {cpf}.");
             }
             catch
             {
-                MessageBox.Show("Valor invalido");
+                MessageBox.Show("ERRO \nValor valido \nVerifique se preencheu corretamente os campos");
             }
 
-            textBox1nome.Text = "";
-            textBox2telefone.Text = "";
-            textBox3email.Text = "";
-            textBox4idade.Text = "";
-            textBox5cpf.Text = "";
+            textBoxnome.Text = "";
+            textBoxtelefone.Text = "";
+            textBoxemail.Text = "";
+            textBoxidade.Text = "";
+            textBoxcpf.Text = "";
             
            
             

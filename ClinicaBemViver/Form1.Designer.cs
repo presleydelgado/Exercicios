@@ -33,13 +33,13 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.textBox1nome = new System.Windows.Forms.TextBox();
-            this.textBox2telefone = new System.Windows.Forms.TextBox();
-            this.textBox3email = new System.Windows.Forms.TextBox();
-            this.textBox4idade = new System.Windows.Forms.TextBox();
-            this.textBox5cpf = new System.Windows.Forms.TextBox();
-            this.button1salvar = new System.Windows.Forms.Button();
-            this.richTextBox1resultado = new System.Windows.Forms.RichTextBox();
+            this.textBoxnome = new System.Windows.Forms.TextBox();
+            this.textBoxtelefone = new System.Windows.Forms.TextBox();
+            this.textBoxemail = new System.Windows.Forms.TextBox();
+            this.textBoxidade = new System.Windows.Forms.TextBox();
+            this.textBoxcpf = new System.Windows.Forms.TextBox();
+            this.buttonsalvar = new System.Windows.Forms.Button();
+            this.richTextBoxresultado = new System.Windows.Forms.RichTextBox();
             this.SuspendLayout();
             // 
             // label1
@@ -89,71 +89,71 @@
             this.label5.TabIndex = 4;
             this.label5.Text = "CPF :";
             // 
-            // textBox1nome
+            // textBoxnome
             // 
-            this.textBox1nome.Location = new System.Drawing.Point(55, 33);
-            this.textBox1nome.Name = "textBox1nome";
-            this.textBox1nome.Size = new System.Drawing.Size(188, 26);
-            this.textBox1nome.TabIndex = 5;
+            this.textBoxnome.Location = new System.Drawing.Point(55, 33);
+            this.textBoxnome.Name = "textBoxnome";
+            this.textBoxnome.Size = new System.Drawing.Size(188, 26);
+            this.textBoxnome.TabIndex = 5;
             // 
-            // textBox2telefone
+            // textBoxtelefone
             // 
-            this.textBox2telefone.Location = new System.Drawing.Point(55, 91);
-            this.textBox2telefone.Name = "textBox2telefone";
-            this.textBox2telefone.Size = new System.Drawing.Size(188, 26);
-            this.textBox2telefone.TabIndex = 6;
+            this.textBoxtelefone.Location = new System.Drawing.Point(55, 91);
+            this.textBoxtelefone.Name = "textBoxtelefone";
+            this.textBoxtelefone.Size = new System.Drawing.Size(188, 26);
+            this.textBoxtelefone.TabIndex = 6;
             // 
-            // textBox3email
+            // textBoxemail
             // 
-            this.textBox3email.Location = new System.Drawing.Point(55, 154);
-            this.textBox3email.Name = "textBox3email";
-            this.textBox3email.Size = new System.Drawing.Size(188, 26);
-            this.textBox3email.TabIndex = 7;
+            this.textBoxemail.Location = new System.Drawing.Point(55, 154);
+            this.textBoxemail.Name = "textBoxemail";
+            this.textBoxemail.Size = new System.Drawing.Size(188, 26);
+            this.textBoxemail.TabIndex = 7;
             // 
-            // textBox4idade
+            // textBoxidade
             // 
-            this.textBox4idade.Location = new System.Drawing.Point(55, 215);
-            this.textBox4idade.Name = "textBox4idade";
-            this.textBox4idade.Size = new System.Drawing.Size(188, 26);
-            this.textBox4idade.TabIndex = 8;
+            this.textBoxidade.Location = new System.Drawing.Point(55, 215);
+            this.textBoxidade.Name = "textBoxidade";
+            this.textBoxidade.Size = new System.Drawing.Size(188, 26);
+            this.textBoxidade.TabIndex = 8;
             // 
-            // textBox5cpf
+            // textBoxcpf
             // 
-            this.textBox5cpf.Location = new System.Drawing.Point(55, 274);
-            this.textBox5cpf.Name = "textBox5cpf";
-            this.textBox5cpf.Size = new System.Drawing.Size(188, 26);
-            this.textBox5cpf.TabIndex = 9;
+            this.textBoxcpf.Location = new System.Drawing.Point(55, 274);
+            this.textBoxcpf.Name = "textBoxcpf";
+            this.textBoxcpf.Size = new System.Drawing.Size(188, 26);
+            this.textBoxcpf.TabIndex = 9;
             // 
-            // button1salvar
+            // buttonsalvar
             // 
-            this.button1salvar.Location = new System.Drawing.Point(97, 323);
-            this.button1salvar.Name = "button1salvar";
-            this.button1salvar.Size = new System.Drawing.Size(102, 33);
-            this.button1salvar.TabIndex = 10;
-            this.button1salvar.Text = "Salvar";
-            this.button1salvar.UseVisualStyleBackColor = true;
-            this.button1salvar.Click += new System.EventHandler(this.button1salvar_Click);
+            this.buttonsalvar.Location = new System.Drawing.Point(97, 323);
+            this.buttonsalvar.Name = "buttonsalvar";
+            this.buttonsalvar.Size = new System.Drawing.Size(102, 33);
+            this.buttonsalvar.TabIndex = 10;
+            this.buttonsalvar.Text = "Salvar";
+            this.buttonsalvar.UseVisualStyleBackColor = true;
+            this.buttonsalvar.Click += new System.EventHandler(this.button1salvar_Click);
             // 
-            // richTextBox1resultado
+            // richTextBoxresultado
             // 
-            this.richTextBox1resultado.Location = new System.Drawing.Point(270, 33);
-            this.richTextBox1resultado.Name = "richTextBox1resultado";
-            this.richTextBox1resultado.Size = new System.Drawing.Size(321, 267);
-            this.richTextBox1resultado.TabIndex = 11;
-            this.richTextBox1resultado.Text = "";
+            this.richTextBoxresultado.Location = new System.Drawing.Point(270, 33);
+            this.richTextBoxresultado.Name = "richTextBoxresultado";
+            this.richTextBoxresultado.Size = new System.Drawing.Size(321, 267);
+            this.richTextBoxresultado.TabIndex = 11;
+            this.richTextBoxresultado.Text = "";
             // 
             // formulario
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(603, 388);
-            this.Controls.Add(this.richTextBox1resultado);
-            this.Controls.Add(this.button1salvar);
-            this.Controls.Add(this.textBox5cpf);
-            this.Controls.Add(this.textBox4idade);
-            this.Controls.Add(this.textBox3email);
-            this.Controls.Add(this.textBox2telefone);
-            this.Controls.Add(this.textBox1nome);
+            this.Controls.Add(this.richTextBoxresultado);
+            this.Controls.Add(this.buttonsalvar);
+            this.Controls.Add(this.textBoxcpf);
+            this.Controls.Add(this.textBoxidade);
+            this.Controls.Add(this.textBoxemail);
+            this.Controls.Add(this.textBoxtelefone);
+            this.Controls.Add(this.textBoxnome);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -173,13 +173,13 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox textBox1nome;
-        private System.Windows.Forms.TextBox textBox2telefone;
-        private System.Windows.Forms.TextBox textBox3email;
-        private System.Windows.Forms.TextBox textBox4idade;
-        private System.Windows.Forms.TextBox textBox5cpf;
-        private System.Windows.Forms.Button button1salvar;
-        private System.Windows.Forms.RichTextBox richTextBox1resultado;
+        private System.Windows.Forms.TextBox textBoxnome;
+        private System.Windows.Forms.TextBox textBoxtelefone;
+        private System.Windows.Forms.TextBox textBoxemail;
+        private System.Windows.Forms.TextBox textBoxidade;
+        private System.Windows.Forms.TextBox textBoxcpf;
+        private System.Windows.Forms.Button buttonsalvar;
+        private System.Windows.Forms.RichTextBox richTextBoxresultado;
     }
 }
 
